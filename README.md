@@ -4,7 +4,7 @@ A restaurant app that lets users input the names of burgers they'd like to eat.
 #### Installation
 ###### To run the application locally, first clone this repository with the following command.
 
-git clone git@github.com:be04zimm/eat-da-burger.git
+git clone git@github.com:be04zimm/burger.git
 
 ###### Next, install the application dependencies.
 
