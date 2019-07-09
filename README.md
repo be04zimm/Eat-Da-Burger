@@ -1,12 +1,9 @@
 # Eat-Da-Burger
 A restaurant app that lets users input the names of burgers they'd like to eat.
 
-#### Installation
-###### To run the application locally, first clone this repository with the following command.
+https://dry-tor-94811.herokuapp.com/
 
-git clone git@github.com:be04zimm/burger.git
-
-###### Next, install the application dependencies.
+###### Install the application dependencies.
 
 cd eat-da-burger
 npm install
