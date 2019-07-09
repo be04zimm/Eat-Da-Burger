@@ -1,5 +1,3 @@
--- Seed Burgers into Database 
-
 INSERT INTO burgers
     (burger_name, devoured)
 VALUES
