@@ -2,7 +2,7 @@
 A restaurant app that lets users add new burgers to the menu, and then DEVOUR those burgers! Yum!
 
 ##### Heroku Deployment:
-https://dry-tor-94811.herokuapp.com/
+https://sheltered-ravine-10409.herokuapp.com/burgers
 
 ##### Install the application dependencies.
 
