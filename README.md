@@ -1,9 +1,6 @@
 # Eat-Da-Burger
 A restaurant app that lets users add new burgers to the menu, and then DEVOUR those burgers! Yum!
 
-##### Heroku Deployment:
-https://sheltered-ravine-10409.herokuapp.com/burgers
-
 ##### Install the application dependencies.
 
 npm install
@@ -19,3 +16,10 @@ node server.js
 
 ![](command_line.gif)
 ![](burgerApp.gif)
+
+
+##### Heroku Deployment:
+https://sheltered-ravine-10409.herokuapp.com/burgers
+```
+Unable to successfully deploy to Heroku (yet!). App is fully functional locally. Future test will include reinstalling dependencies and verifying databases are functional.
+```
