@@ -13,5 +13,11 @@
     "express-handlebars": "^3.0.0",
     "mysql": "^2.16.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "keywords": [
+    "heroku"
+  ],
+  "engines": {
+    "node": "10.x"
+  }
 }
