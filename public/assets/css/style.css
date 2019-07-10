@@ -1,11 +1,23 @@
 body {
   width: 99%;
   height: 900px;
-  background-color: #fc6;
+  background-color: rgb(189, 20, 150);
+  color: white;
 }
 
 #top-bar {
   margin-top: 28px;
+
+}
+#burgerpic {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+#title{
+  color: white;
+  font-size: xx-large;
 }
 
 .spacing-reset {
