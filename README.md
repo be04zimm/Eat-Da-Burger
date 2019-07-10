@@ -1,17 +1,21 @@
 # Eat-Da-Burger
-A restaurant app that lets users input the names of burgers they'd like to eat.
+A restaurant app that lets users add new burgers to the menu, and then DEVOUR those burgers! Yum!
 
+##### Heroku Deployment:
 https://dry-tor-94811.herokuapp.com/
 
 ###### Install the application dependencies.
 
-cd eat-da-burger
 npm install
 
 ###### Finally, run the node server locally.
 
-node server
+node server.js
 
-###### Now, open the local application on port 3000 at the URL: http://localhost:3000/.
+###### Now, open the local application on port 8000 at the URL: http://localhost:8000/.
 
 ### Enjoy and have a burger!
+
+
+![](command_line.gif)
+![](burgerApp.gif)
